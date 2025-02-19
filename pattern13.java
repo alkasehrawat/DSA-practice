@@ -7,7 +7,7 @@ public class pattern13 {
                System.out.print("*");
             }
             for(int j=1;j<=2*(n-i);j++){ 
-                System.out.print("-");               
+                System.out.print(" ");               
             }
             for(int j=1;j<=i;j++){
                 System.out.print("*");
@@ -20,7 +20,7 @@ public class pattern13 {
                System.out.print("*");
             }
             for(int j=1;j<=2*(n-i);j++){ 
-                System.out.print("-");               
+                System.out.print(" ");               
             }
             for(int j=i;j>=1;j--){
                 System.out.print("*");
