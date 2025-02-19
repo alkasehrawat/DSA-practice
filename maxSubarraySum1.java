@@ -1,3 +1,4 @@
+//brute force
 public class maxSubarrSum1 {
     public static int maxSum(int[] arr){
         int maxS=0;
