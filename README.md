@@ -1,0 +1,1 @@
+This repository features efficient DSA solutions in Java, focusing on clean code, optimization, and modular design. It’s designed to strengthen problem-solving skills with well-structured implementations. 
